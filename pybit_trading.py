@@ -1,4 +1,5 @@
 import pyupbit
+#token : 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
 
 #https://github.com/sharebook-kr/pyupbit
 
